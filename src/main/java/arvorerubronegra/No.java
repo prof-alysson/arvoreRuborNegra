@@ -1,3 +1,5 @@
+package arvorerubronegra;
+
 /**
  * Classe que representa um nó na Árvore Rubro-Negra.
  *

@@ -1,3 +1,5 @@
+package arvorerubronegra;
+
 /**
  * Enumeração que define as cores possíveis para os nós de uma Árvore Rubro-Negra.
  *

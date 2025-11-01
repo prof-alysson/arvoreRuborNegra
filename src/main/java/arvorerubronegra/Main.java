@@ -1,3 +1,5 @@
+package arvorerubronegra;
+
 /**
  * Classe principal para testar a implementação da Árvore Rubro-Negra.
  *
